@@ -1,4 +1,4 @@
-(defproject net.clojars.jwierzbi/rf-fx-clipboard "0.1.0-SNAPSHOT"
+(defproject net.clojars.jwierzbi/rf-fx-clipboard "0.1.0"
   :description "re-frame effect for copying text to the system clipboard."
   :url "https://github.com/jwierzbi/rf-rx-clipboard"
   :license {:name "BSD-2-Clause"
